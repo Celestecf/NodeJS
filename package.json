@@ -1,0 +1,23 @@
+{
+  "name": "HelloWorld",
+  "version": "1.0.0",
+  "description": "My First Node.js app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Celestecf/NodeJS.git"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "Celeste Cefalu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Celestecf/NodeJS/issues"
+  },
+  "homepage": "https://github.com/Celestecf/NodeJS"
+}
